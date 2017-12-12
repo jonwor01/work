@@ -1,3 +1,0 @@
-this is a sample working with git.
-This is another inclusion.
-check
